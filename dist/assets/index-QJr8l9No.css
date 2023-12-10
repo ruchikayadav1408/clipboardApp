@@ -1,0 +1,1 @@
+body{font-family:sans-serif;margin:0;padding:20px;background-color:#f8f8f8}input{display:block;width:90%;padding:10px;border:1px solid #ddd;border-radius:5px;background-color:#f2f2f2;font-size:16px;color:#333;outline:none;box-shadow:0 0 0 1px #ddd}input:focus{background-color:#fff;box-shadow:0 0 0 2px #ccc}::placeholder{color:#999;font-size:14px;font-style:italic}
